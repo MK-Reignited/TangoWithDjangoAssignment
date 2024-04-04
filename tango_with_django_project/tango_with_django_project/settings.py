@@ -29,7 +29,7 @@ SECRET_KEY = '@u906!1$v)z-^*w)(ns+m^k-7h==@^ejfm#7r)knc*esm0c+v5'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['terrain7274.pythonanywhere.com']
 
 
 # Application definition
